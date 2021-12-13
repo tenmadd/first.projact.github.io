@@ -1,0 +1,35 @@
+body{
+    background: -webkit-linear-gradient(45deg, rgb(185, 229, 111), rgb(21, 210, 216));
+    background: -moz-linear-gradient(45deg, rgb(185, 229, 111), rgb(21, 210, 216));
+    background: linear-gradient(45deg, rgb(185, 229, 111), rgb(21, 210, 216));;
+}
+img{
+    border: brown solid 8px;
+    border-radius: 50%;
+}
+p{
+    font-family: 'M PLUS 1 Code', sans-serif;
+font-family: 'Montserrat', sans-serif;
+}
+h1{
+    font-family: 'M PLUS 1 Code', sans-serif;
+    font-family: 'Montserrat', sans-serif;
+}
+h2{
+    font-family: 'M PLUS 1 Code', sans-serif;
+font-family: 'Montserrat', sans-serif;
+}
+ol{
+    font-family: 'M PLUS 1 Code', sans-serif;
+font-family: 'Montserrat', sans-serif;
+}
+u1{
+    font-family: 'M PLUS 1 Code', sans-serif;
+font-family: 'Montserrat', sans-serif;
+}
+a{
+text-decoration: none;
+}
+a{
+color: darkgrey;
+}
